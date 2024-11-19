@@ -1,0 +1,19 @@
+{
+  "name": "95655-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require esm 'test/**/*.mjs'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
